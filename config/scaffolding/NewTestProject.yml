@@ -8,7 +8,7 @@ packages:
   gitUsername: moaaSoftwareAG
   gitBranch: main
 services:
-- serviceName: project.newtest.integrations:publicEdgeFlow
+- serviceName: project.newtest.integrations:testFlow
   packages:
   - name: NewTestProject
     version: "1.0"
